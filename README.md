@@ -12,11 +12,13 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Abhi3620v/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Abhi3620v/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Abhi3620v/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Abhi3620v/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Breadth-First Search
@@ -26,6 +28,11 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Abhi3620v/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Abhi3620v/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 <!---LeetCode Topics End-->
