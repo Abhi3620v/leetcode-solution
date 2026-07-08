@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Abhi3620v/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Abhi3620v/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Abhi3620v/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
