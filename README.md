@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Abhi3620v/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Abhi3620v/leetcode-solution/tree/main/0066-plus-one/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Abhi3620v/leetcode-solution/tree/main/1046-last-stone-weight/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -66,5 +67,18 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Abhi3620v/leetcode-solution/tree/main/1046-last-stone-weight/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
