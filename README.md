@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Abhi3620v/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Abhi3620v/leetcode-solution/tree/main/0066-plus-one/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Abhi3620v/leetcode-solution/tree/main/1046-last-stone-weight/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -51,6 +52,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Abhi3620v/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
