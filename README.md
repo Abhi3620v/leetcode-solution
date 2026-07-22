@@ -30,12 +30,14 @@
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Abhi3620v/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Abhi3620v/leetcode-solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Abhi3620v/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Abhi3620v/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Abhi3620v/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Abhi3620v/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -103,4 +105,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Abhi3620v/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Abhi3620v/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
