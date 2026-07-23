@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0207-course-schedule](https://github.com/Abhi3620v/leetcode-solution/tree/main/0207-course-schedule/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Abhi3620v/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Abhi3620v/leetcode-solution/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -37,6 +38,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Abhi3620v/leetcode-solution/tree/main/0207-course-schedule/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Abhi3620v/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Abhi3620v/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
@@ -112,5 +114,10 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Abhi3620v/leetcode-solution/tree/main/0207-course-schedule/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Abhi3620v/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Abhi3620v/leetcode-solution/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
