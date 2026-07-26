@@ -10,6 +10,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1046-last-stone-weight](https://github.com/Abhi3620v/leetcode-solution/tree/main/1046-last-stone-weight/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abhi3620v/leetcode-solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhi3620v/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Binary Search
@@ -116,8 +117,17 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Abhi3620v/leetcode-solution/tree/main/0207-course-schedule/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Abhi3620v/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abhi3620v/leetcode-solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Abhi3620v/leetcode-solution/tree/main/0207-course-schedule/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abhi3620v/leetcode-solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abhi3620v/leetcode-solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
