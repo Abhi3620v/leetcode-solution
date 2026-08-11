@@ -36,6 +36,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0207-course-schedule](https://github.com/Abhi3620v/leetcode-solution/tree/main/0207-course-schedule/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhi3620v/leetcode-solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Abhi3620v/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Abhi3620v/leetcode-solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Abhi3620v/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Abhi3620v/leetcode-solution/tree/main/0207-course-schedule/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhi3620v/leetcode-solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Abhi3620v/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Abhi3620v/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
@@ -67,6 +69,7 @@
 | [0070-climbing-stairs](https://github.com/Abhi3620v/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhi3620v/leetcode-solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhi3620v/leetcode-solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1046-last-stone-weight](https://github.com/Abhi3620v/leetcode-solution/tree/main/1046-last-stone-weight/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Divide and Conquer
@@ -123,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Abhi3620v/leetcode-solution/tree/main/0207-course-schedule/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhi3620v/leetcode-solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Abhi3620v/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Abhi3620v/leetcode-solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Topological Sort
@@ -150,4 +155,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhi3620v/leetcode-solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
