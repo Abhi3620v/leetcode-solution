@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/Abhi3620v/leetcode-solution/tree/main/0066-plus-one/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi3620v/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0198-house-robber](https://github.com/Abhi3620v/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhi3620v/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
@@ -72,6 +73,7 @@
 | [0070-climbing-stairs](https://github.com/Abhi3620v/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/Abhi3620v/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhi3620v/leetcode-solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Math
 | Problem Name | Difficulty |
