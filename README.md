@@ -72,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Abhi3620v/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Abhi3620v/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Abhi3620v/leetcode-solution/tree/main/0198-house-robber/) | Medium |
@@ -120,6 +121,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Abhi3620v/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
