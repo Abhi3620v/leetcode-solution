@@ -28,6 +28,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Abhi3620v/leetcode-solution/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -56,6 +57,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Abhi3620v/leetcode-solution/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -73,6 +75,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Abhi3620v/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Abhi3620v/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Abhi3620v/leetcode-solution/tree/main/0198-house-robber/) | Medium |
@@ -85,9 +88,11 @@
 | [0066-plus-one](https://github.com/Abhi3620v/leetcode-solution/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Abhi3620v/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Abhi3620v/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Abhi3620v/leetcode-solution/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
