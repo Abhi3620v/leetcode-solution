@@ -12,6 +12,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhi3620v/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0518-coin-change-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
+| [0525-contiguous-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0733-flood-fill](https://github.com/Abhi3620v/leetcode-solution/tree/main/0733-flood-fill/) | Easy |
 | [1046-last-stone-weight](https://github.com/Abhi3620v/leetcode-solution/tree/main/1046-last-stone-weight/) | Easy |
@@ -67,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Abhi3620v/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0525-contiguous-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhi3620v/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -165,6 +167,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
