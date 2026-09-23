@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Abhi3620v/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Abhi3620v/leetcode-solution/tree/main/0066-plus-one/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi3620v/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Abhi3620v/leetcode-solution/tree/main/0198-house-robber/) | Medium |
@@ -70,6 +71,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhi3620v/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0525-contiguous-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0525-contiguous-array/) | Medium |
@@ -159,6 +161,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Abhi3620v/leetcode-solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
