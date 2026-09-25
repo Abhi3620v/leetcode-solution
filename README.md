@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Abhi3620v/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/Abhi3620v/leetcode-solution/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/Abhi3620v/leetcode-solution/tree/main/0066-plus-one/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -74,6 +75,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/Abhi3620v/leetcode-solution/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhi3620v/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0229-majority-element-ii/) | Medium |
