@@ -20,6 +20,7 @@
 | [0525-contiguous-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0733-flood-fill](https://github.com/Abhi3620v/leetcode-solution/tree/main/0733-flood-fill/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1046-last-stone-weight](https://github.com/Abhi3620v/leetcode-solution/tree/main/1046-last-stone-weight/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/Abhi3620v/leetcode-solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -93,6 +94,7 @@
 | [0198-house-robber](https://github.com/Abhi3620v/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 | [0518-coin-change-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhi3620v/leetcode-solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -230,4 +233,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
