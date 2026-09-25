@@ -16,6 +16,7 @@
 | [0229-majority-element-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0518-coin-change-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0733-flood-fill](https://github.com/Abhi3620v/leetcode-solution/tree/main/0733-flood-fill/) | Easy |
@@ -76,6 +77,7 @@
 | [0217-contains-duplicate](https://github.com/Abhi3620v/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
@@ -99,6 +101,7 @@
 | [0069-sqrtx](https://github.com/Abhi3620v/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Abhi3620v/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +182,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Greedy
@@ -222,4 +226,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0229-majority-element-ii/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
