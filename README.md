@@ -15,6 +15,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhi3620v/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0229-majority-element-ii/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0518-coin-change-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -193,6 +194,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -243,4 +245,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
