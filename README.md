@@ -150,6 +150,7 @@
 | [0072-edit-distance](https://github.com/Abhi3620v/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi3620v/leetcode-solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -249,4 +250,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi3620v/leetcode-solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi3620v/leetcode-solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
