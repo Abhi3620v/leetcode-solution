@@ -15,6 +15,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhi3620v/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0229-majority-element-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Abhi3620v/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0518-coin-change-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
@@ -35,6 +36,7 @@
 | [0069-sqrtx](https://github.com/Abhi3620v/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi3620v/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Abhi3620v/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +186,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi3620v/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Abhi3620v/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -237,6 +240,7 @@
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhi3620v/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -258,4 +262,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi3620v/leetcode-solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhi3620v/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhi3620v/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
