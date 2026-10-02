@@ -18,6 +18,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Abhi3620v/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0498-diagonal-traverse](https://github.com/Abhi3620v/leetcode-solution/tree/main/0498-diagonal-traverse/) | Medium |
 | [0518-coin-change-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Abhi3620v/leetcode-solution/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0525-contiguous-array/) | Medium |
@@ -211,6 +212,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0498-diagonal-traverse](https://github.com/Abhi3620v/leetcode-solution/tree/main/0498-diagonal-traverse/) | Medium |
 | [0733-flood-fill](https://github.com/Abhi3620v/leetcode-solution/tree/main/0733-flood-fill/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -270,4 +272,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Abhi3620v/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0498-diagonal-traverse](https://github.com/Abhi3620v/leetcode-solution/tree/main/0498-diagonal-traverse/) | Medium |
 <!---LeetCode Topics End-->
