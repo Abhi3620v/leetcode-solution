@@ -27,6 +27,7 @@
 | [0733-flood-fill](https://github.com/Abhi3620v/leetcode-solution/tree/main/0733-flood-fill/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhi3620v/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1046-last-stone-weight](https://github.com/Abhi3620v/leetcode-solution/tree/main/1046-last-stone-weight/) | Easy |
+| [1122-relative-sort-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1122-relative-sort-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/Abhi3620v/leetcode-solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhi3620v/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -89,6 +90,7 @@
 | [0525-contiguous-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Abhi3620v/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [1122-relative-sort-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1122-relative-sort-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhi3620v/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@
 | [0229-majority-element-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [1122-relative-sort-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1122-relative-sort-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhi3620v/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Quickselect
@@ -280,4 +283,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/Abhi3620v/leetcode-solution/tree/main/0498-diagonal-traverse/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1122-relative-sort-array/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
