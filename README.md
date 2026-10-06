@@ -159,6 +159,7 @@
 | [0179-largest-number](https://github.com/Abhi3620v/leetcode-solution/tree/main/0179-largest-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/Abhi3620v/leetcode-solution/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhi3620v/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi3620v/leetcode-solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Trie
@@ -208,6 +209,7 @@
 | [0179-largest-number](https://github.com/Abhi3620v/leetcode-solution/tree/main/0179-largest-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhi3620v/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,10 +268,12 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhi3620v/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi3620v/leetcode-solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhi3620v/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi3620v/leetcode-solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
