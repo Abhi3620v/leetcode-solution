@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/Abhi3620v/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Abhi3620v/leetcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Abhi3620v/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0289-game-of-life](https://github.com/Abhi3620v/leetcode-solution/tree/main/0289-game-of-life/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhi3620v/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Abhi3620v/leetcode-solution/tree/main/0498-diagonal-traverse/) | Medium |
@@ -223,6 +224,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0289-game-of-life](https://github.com/Abhi3620v/leetcode-solution/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Abhi3620v/leetcode-solution/tree/main/0498-diagonal-traverse/) | Medium |
 | [0733-flood-fill](https://github.com/Abhi3620v/leetcode-solution/tree/main/0733-flood-fill/) | Easy |
 ## Database
@@ -288,6 +290,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0289-game-of-life](https://github.com/Abhi3620v/leetcode-solution/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Abhi3620v/leetcode-solution/tree/main/0498-diagonal-traverse/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
