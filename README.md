@@ -34,6 +34,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhi3620v/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhi3620v/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhi3620v/leetcode-solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Abhi3620v/leetcode-solution/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
